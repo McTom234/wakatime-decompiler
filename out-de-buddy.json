@@ -1,0 +1,4171 @@
+[
+  {
+    "date": "2022-04-23",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "bug/jb_preserve-hints",
+            "total_seconds": 3476,
+            "hours": 0,
+            "seconds": 56,
+            "minutes": 57
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 42.281,
+            "hours": 0,
+            "seconds": 42,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-04-24",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "bug/jb_preserve-hints",
+            "total_seconds": 7637.586,
+            "hours": 2,
+            "seconds": 17,
+            "minutes": 7
+          },
+          {
+            "name": "master",
+            "total_seconds": 902.407,
+            "hours": 0,
+            "seconds": 2,
+            "minutes": 15
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 827.317,
+            "hours": 0,
+            "seconds": 47,
+            "minutes": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-04-25",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "bug/jb_preserve-hints",
+            "total_seconds": 2972.553,
+            "hours": 0,
+            "seconds": 32,
+            "minutes": 49
+          },
+          {
+            "name": "master",
+            "total_seconds": 1383.299,
+            "hours": 0,
+            "seconds": 3,
+            "minutes": 23
+          },
+          {
+            "name": "feature/js_teamspeak-optimizations",
+            "total_seconds": 79.917,
+            "hours": 0,
+            "seconds": 19,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-04-26",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "Unknown",
+            "total_seconds": 824.593,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 13
+          },
+          {
+            "name": "master",
+            "total_seconds": 274.419,
+            "hours": 0,
+            "seconds": 34,
+            "minutes": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-05-04",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "master",
+            "total_seconds": 135.553,
+            "hours": 0,
+            "seconds": 15,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-05-20",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 9980.146,
+            "hours": 2,
+            "seconds": 20,
+            "minutes": 46
+          },
+          {
+            "name": "develop",
+            "total_seconds": 1016.212,
+            "hours": 0,
+            "seconds": 56,
+            "minutes": 16
+          },
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 944.687,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-05-25",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 103.761,
+            "hours": 0,
+            "seconds": 43,
+            "minutes": 1
+          },
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 24.732,
+            "hours": 0,
+            "seconds": 24,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-05-29",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 33.446,
+            "hours": 0,
+            "seconds": 33,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-06",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "bug/jb_staff-list",
+            "total_seconds": 934.322,
+            "hours": 0,
+            "seconds": 34,
+            "minutes": 15
+          },
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 798.577,
+            "hours": 0,
+            "seconds": 18,
+            "minutes": 13
+          },
+          {
+            "name": "master",
+            "total_seconds": 104.345,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-08",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 8804.009,
+            "hours": 2,
+            "seconds": 44,
+            "minutes": 26
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 704.999,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 11
+          },
+          {
+            "name": "bug/jb_staff-list",
+            "total_seconds": 316.41,
+            "hours": 0,
+            "seconds": 16,
+            "minutes": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-09",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 5523.015,
+            "hours": 1,
+            "seconds": 3,
+            "minutes": 32
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 393.026,
+            "hours": 0,
+            "seconds": 33,
+            "minutes": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-12",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 7308.902,
+            "hours": 2,
+            "seconds": 48,
+            "minutes": 1
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 0.56,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-13",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 5862.275,
+            "hours": 1,
+            "seconds": 42,
+            "minutes": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-14",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 11434.501,
+            "hours": 3,
+            "seconds": 34,
+            "minutes": 10
+          },
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 58.659,
+            "hours": 0,
+            "seconds": 58,
+            "minutes": 0
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 1.119,
+            "hours": 0,
+            "seconds": 1,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-15",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 14241.069,
+            "hours": 3,
+            "seconds": 21,
+            "minutes": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-16",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 25024.23,
+            "hours": 6,
+            "seconds": 4,
+            "minutes": 57
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 259.02,
+            "hours": 0,
+            "seconds": 19,
+            "minutes": 4
+          },
+          {
+            "name": "master",
+            "total_seconds": 255.524,
+            "hours": 0,
+            "seconds": 15,
+            "minutes": 4
+          },
+          {
+            "name": "develop",
+            "total_seconds": 132.14,
+            "hours": 0,
+            "seconds": 12,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-17",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 2878.964,
+            "hours": 0,
+            "seconds": 58,
+            "minutes": 47
+          },
+          {
+            "name": "master",
+            "total_seconds": 20.983,
+            "hours": 0,
+            "seconds": 20,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-19",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 137.144,
+            "hours": 0,
+            "seconds": 17,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-20",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 164.07,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-25",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 16078.285,
+            "hours": 4,
+            "seconds": 58,
+            "minutes": 27
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 7.557,
+            "hours": 0,
+            "seconds": 7,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-26",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 15154.31,
+            "hours": 4,
+            "seconds": 34,
+            "minutes": 12
+          },
+          {
+            "name": "feature/js_laravel9",
+            "total_seconds": 1378.958,
+            "hours": 0,
+            "seconds": 58,
+            "minutes": 22
+          },
+          {
+            "name": "develop",
+            "total_seconds": 118.564,
+            "hours": 0,
+            "seconds": 58,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-27",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 1866.091,
+            "hours": 0,
+            "seconds": 6,
+            "minutes": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-28",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 10149.23,
+            "hours": 2,
+            "seconds": 9,
+            "minutes": 49
+          },
+          {
+            "name": "develop",
+            "total_seconds": 93.181,
+            "hours": 0,
+            "seconds": 33,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-29",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 18913.855,
+            "hours": 5,
+            "seconds": 13,
+            "minutes": 15
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 288.643,
+            "hours": 0,
+            "seconds": 48,
+            "minutes": 4
+          },
+          {
+            "name": "develop",
+            "total_seconds": 0.125,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-30",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 2966.492,
+            "hours": 0,
+            "seconds": 26,
+            "minutes": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-31",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 14232.5,
+            "hours": 3,
+            "seconds": 12,
+            "minutes": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-01",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 1514.208,
+            "hours": 0,
+            "seconds": 14,
+            "minutes": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-02",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 3383.046,
+            "hours": 0,
+            "seconds": 23,
+            "minutes": 56
+          },
+          {
+            "name": "updates/jb_buddy-system_aka-IVAO-tinder",
+            "total_seconds": 2507.03,
+            "hours": 0,
+            "seconds": 47,
+            "minutes": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-04",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 10318.427,
+            "hours": 2,
+            "seconds": 58,
+            "minutes": 51
+          },
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 0.045,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-05",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_organizeViews",
+            "total_seconds": 13574.06,
+            "hours": 3,
+            "seconds": 14,
+            "minutes": 46
+          },
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 0.024,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-07",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 1024.46,
+            "hours": 0,
+            "seconds": 4,
+            "minutes": 17
+          },
+          {
+            "name": "update/jb_refactor-with-php8",
+            "total_seconds": 131.522,
+            "hours": 0,
+            "seconds": 11,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-08",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_refactor-with-php8",
+            "total_seconds": 276.19,
+            "hours": 0,
+            "seconds": 36,
+            "minutes": 4
+          },
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 170.741,
+            "hours": 0,
+            "seconds": 50,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-12",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "update/jb_refactor-with-php8",
+            "total_seconds": 0.696,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-14",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "hotfix/jb_leg-validation",
+            "total_seconds": 1891.452,
+            "hours": 0,
+            "seconds": 31,
+            "minutes": 31
+          },
+          {
+            "name": "develop",
+            "total_seconds": 1871.055,
+            "hours": 0,
+            "seconds": 11,
+            "minutes": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-15",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "master",
+            "total_seconds": 1846.239,
+            "hours": 0,
+            "seconds": 46,
+            "minutes": 30
+          },
+          {
+            "name": "update/jb_hide-next-leg-in-leg-overview",
+            "total_seconds": 1461.097,
+            "hours": 0,
+            "seconds": 21,
+            "minutes": 24
+          },
+          {
+            "name": "develop",
+            "total_seconds": 871.947,
+            "hours": 0,
+            "seconds": 31,
+            "minutes": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-17",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "master",
+            "total_seconds": 96.994,
+            "hours": 0,
+            "seconds": 36,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-22",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "hotfix/jb_booking-system-rotation",
+            "total_seconds": 5816.409,
+            "hours": 1,
+            "seconds": 56,
+            "minutes": 36
+          },
+          {
+            "name": "update/jb_refactor-with-php8",
+            "total_seconds": 3672.531,
+            "hours": 1,
+            "seconds": 12,
+            "minutes": 1
+          },
+          {
+            "name": "hotfix/design-division-center",
+            "total_seconds": 1298.206,
+            "hours": 0,
+            "seconds": 38,
+            "minutes": 21
+          },
+          {
+            "name": "develop",
+            "total_seconds": 944.392,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 15
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 267.946,
+            "hours": 0,
+            "seconds": 27,
+            "minutes": 4
+          },
+          {
+            "name": "master",
+            "total_seconds": 65.272,
+            "hours": 0,
+            "seconds": 5,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-23",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 4039.487,
+            "hours": 1,
+            "seconds": 19,
+            "minutes": 7
+          },
+          {
+            "name": "master",
+            "total_seconds": 3.724,
+            "hours": 0,
+            "seconds": 3,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-24",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 1412.497,
+            "hours": 0,
+            "seconds": 32,
+            "minutes": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-25",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 863.97,
+            "hours": 0,
+            "seconds": 23,
+            "minutes": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-26",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 2392.966,
+            "hours": 0,
+            "seconds": 52,
+            "minutes": 39
+          },
+          {
+            "name": "develop",
+            "total_seconds": 716.97,
+            "hours": 0,
+            "seconds": 56,
+            "minutes": 11
+          },
+          {
+            "name": "master",
+            "total_seconds": 102.123,
+            "hours": 0,
+            "seconds": 42,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-27",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 2489.908,
+            "hours": 0,
+            "seconds": 29,
+            "minutes": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-29",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 5882.686,
+            "hours": 1,
+            "seconds": 2,
+            "minutes": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-30",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 13589.544,
+            "hours": 3,
+            "seconds": 29,
+            "minutes": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-31",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 7676.029,
+            "hours": 2,
+            "seconds": 56,
+            "minutes": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-02",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 4166.028,
+            "hours": 1,
+            "seconds": 26,
+            "minutes": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-03",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 338.133,
+            "hours": 0,
+            "seconds": 38,
+            "minutes": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-04",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 12077.44,
+            "hours": 3,
+            "seconds": 17,
+            "minutes": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-05",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 3009.059,
+            "hours": 0,
+            "seconds": 9,
+            "minutes": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-06",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 6745.06,
+            "hours": 1,
+            "seconds": 25,
+            "minutes": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-07",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 6129.351,
+            "hours": 1,
+            "seconds": 9,
+            "minutes": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-08",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 17808.011,
+            "hours": 4,
+            "seconds": 48,
+            "minutes": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-09",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 125.306,
+            "hours": 0,
+            "seconds": 5,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-11",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 1141.873,
+            "hours": 0,
+            "seconds": 1,
+            "minutes": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-24",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 21.461,
+            "hours": 0,
+            "seconds": 21,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-25",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 35.562,
+            "hours": 0,
+            "seconds": 35,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-09-26",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 136.119,
+            "hours": 0,
+            "seconds": 16,
+            "minutes": 2
+          },
+          {
+            "name": "hotfix/jb_permission-search",
+            "total_seconds": 104.712,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-06",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 187.608,
+            "hours": 0,
+            "seconds": 7,
+            "minutes": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-12",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 1741.291,
+            "hours": 0,
+            "seconds": 1,
+            "minutes": 29
+          },
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 730.575,
+            "hours": 0,
+            "seconds": 10,
+            "minutes": 12
+          },
+          {
+            "name": "master",
+            "total_seconds": 701.238,
+            "hours": 0,
+            "seconds": 41,
+            "minutes": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-13",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 1780.202,
+            "hours": 0,
+            "seconds": 40,
+            "minutes": 29
+          },
+          {
+            "name": "master",
+            "total_seconds": 185.731,
+            "hours": 0,
+            "seconds": 5,
+            "minutes": 3
+          },
+          {
+            "name": "hotfix/jb_award-assignment",
+            "total_seconds": 76.912,
+            "hours": 0,
+            "seconds": 16,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-15",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 484.542,
+            "hours": 0,
+            "seconds": 4,
+            "minutes": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-16",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 8076.573,
+            "hours": 2,
+            "seconds": 36,
+            "minutes": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-17",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 156.669,
+            "hours": 0,
+            "seconds": 36,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-21",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 1654.57,
+            "hours": 0,
+            "seconds": 34,
+            "minutes": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-23",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 3895.33,
+            "hours": 1,
+            "seconds": 55,
+            "minutes": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-10-30",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 3388.542,
+            "hours": 0,
+            "seconds": 28,
+            "minutes": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-01",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 9757.156,
+            "hours": 2,
+            "seconds": 37,
+            "minutes": 42
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 144.097,
+            "hours": 0,
+            "seconds": 24,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-02",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 17005.976,
+            "hours": 4,
+            "seconds": 25,
+            "minutes": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-03",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 7995.163,
+            "hours": 2,
+            "seconds": 15,
+            "minutes": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-06",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 1072.46,
+            "hours": 0,
+            "seconds": 52,
+            "minutes": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-09",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 169.825,
+            "hours": 0,
+            "seconds": 49,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-18",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 1183.533,
+            "hours": 0,
+            "seconds": 43,
+            "minutes": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-19",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 4145.077,
+            "hours": 1,
+            "seconds": 5,
+            "minutes": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-20",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 1661.151,
+            "hours": 0,
+            "seconds": 41,
+            "minutes": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-24",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 9041.346,
+            "hours": 2,
+            "seconds": 41,
+            "minutes": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-25",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 1933.903,
+            "hours": 0,
+            "seconds": 13,
+            "minutes": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-27",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 14370.465,
+            "hours": 3,
+            "seconds": 30,
+            "minutes": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-28",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 7326.944,
+            "hours": 2,
+            "seconds": 6,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-11-29",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 4197.049,
+            "hours": 1,
+            "seconds": 57,
+            "minutes": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-01",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 12734.105,
+            "hours": 3,
+            "seconds": 14,
+            "minutes": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-11",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 13618.249,
+            "hours": 3,
+            "seconds": 58,
+            "minutes": 46
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 200.823,
+            "hours": 0,
+            "seconds": 20,
+            "minutes": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-12",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 20660.957,
+            "hours": 5,
+            "seconds": 20,
+            "minutes": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-14",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 2207.112,
+            "hours": 0,
+            "seconds": 47,
+            "minutes": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-15",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 5627.001,
+            "hours": 1,
+            "seconds": 47,
+            "minutes": 33
+          },
+          {
+            "name": "develop",
+            "total_seconds": 532.149,
+            "hours": 0,
+            "seconds": 52,
+            "minutes": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-16",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 14321.047,
+            "hours": 3,
+            "seconds": 41,
+            "minutes": 58
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 341.735,
+            "hours": 0,
+            "seconds": 41,
+            "minutes": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-17",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 15814.365,
+            "hours": 4,
+            "seconds": 34,
+            "minutes": 23
+          },
+          {
+            "name": "feature/jb_admin_filter",
+            "total_seconds": 694.99,
+            "hours": 0,
+            "seconds": 34,
+            "minutes": 11
+          },
+          {
+            "name": "feature/nr_user_administration_filter",
+            "total_seconds": 351.444,
+            "hours": 0,
+            "seconds": 51,
+            "minutes": 5
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 5.513,
+            "hours": 0,
+            "seconds": 5,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-18",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 749.607,
+            "hours": 0,
+            "seconds": 29,
+            "minutes": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-19",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 8424.141,
+            "hours": 2,
+            "seconds": 24,
+            "minutes": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-20",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 1968.122,
+            "hours": 0,
+            "seconds": 48,
+            "minutes": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-23",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 6.284,
+            "hours": 0,
+            "seconds": 6,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-24",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "fix/jb_tour_status_icon",
+            "total_seconds": 4650.034,
+            "hours": 1,
+            "seconds": 30,
+            "minutes": 17
+          },
+          {
+            "name": "hotfix/jb_tour_status_icon",
+            "total_seconds": 362.665,
+            "hours": 0,
+            "seconds": 2,
+            "minutes": 6
+          },
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 36.459,
+            "hours": 0,
+            "seconds": 36,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-25",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "hotfix/jb_tour_status_icon",
+            "total_seconds": 4208.483,
+            "hours": 1,
+            "seconds": 8,
+            "minutes": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-29",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_refactor_tour_controller",
+            "total_seconds": 2739.068,
+            "hours": 0,
+            "seconds": 39,
+            "minutes": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-12-30",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 463.2,
+            "hours": 0,
+            "seconds": 43,
+            "minutes": 7
+          },
+          {
+            "name": "feature/jb_refactor_tour_controller",
+            "total_seconds": 317.898,
+            "hours": 0,
+            "seconds": 17,
+            "minutes": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-01-13",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "hotfix/mv_ViewLegDetails",
+            "total_seconds": 195.65,
+            "hours": 0,
+            "seconds": 15,
+            "minutes": 3
+          },
+          {
+            "name": "hotfix/mv_ExcludingFromTour",
+            "total_seconds": 10.817,
+            "hours": 0,
+            "seconds": 10,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-01-17",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 358.053,
+            "hours": 0,
+            "seconds": 58,
+            "minutes": 5
+          },
+          {
+            "name": "develop",
+            "total_seconds": 227.498,
+            "hours": 0,
+            "seconds": 47,
+            "minutes": 3
+          },
+          {
+            "name": "hotfix/mv_ViewLegDetails",
+            "total_seconds": 26.452,
+            "hours": 0,
+            "seconds": 26,
+            "minutes": 0
+          },
+          {
+            "name": "hotfix/jb_laravelStrictMode",
+            "total_seconds": 0.003,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-01-18",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/mv_10162",
+            "total_seconds": 6502.67,
+            "hours": 1,
+            "seconds": 22,
+            "minutes": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-01-20",
+    "projects": [
+      {
+        "name": "division-center",
+        "branches": [
+          {
+            "name": "feature/mv_10162",
+            "total_seconds": 9167.577,
+            "hours": 2,
+            "seconds": 47,
+            "minutes": 32
+          },
+          {
+            "name": "feature/mv_7700",
+            "total_seconds": 464.103,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 7
+          },
+          {
+            "name": "feature/mv_7716",
+            "total_seconds": 253.843,
+            "hours": 0,
+            "seconds": 13,
+            "minutes": 4
+          },
+          {
+            "name": "develop",
+            "total_seconds": 68.785,
+            "hours": 0,
+            "seconds": 8,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-01-25",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/mv_10162",
+            "total_seconds": 3378.379,
+            "hours": 0,
+            "seconds": 18,
+            "minutes": 56
+          },
+          {
+            "name": "jb_test",
+            "total_seconds": 104.457,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-01-26",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/mv_10162",
+            "total_seconds": 591.78,
+            "hours": 0,
+            "seconds": 51,
+            "minutes": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-01-27",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/mv_7716",
+            "total_seconds": 3009.018,
+            "hours": 0,
+            "seconds": 9,
+            "minutes": 50
+          },
+          {
+            "name": "feature/mv_10162",
+            "total_seconds": 2368.945,
+            "hours": 0,
+            "seconds": 28,
+            "minutes": 39
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 34.706,
+            "hours": 0,
+            "seconds": 34,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-01-28",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-platfrom",
+            "total_seconds": 2462.281,
+            "hours": 0,
+            "seconds": 2,
+            "minutes": 41
+          },
+          {
+            "name": "imp/jb_clean-subTour-tree",
+            "total_seconds": 1281.815,
+            "hours": 0,
+            "seconds": 21,
+            "minutes": 21
+          },
+          {
+            "name": "feature/mv_10162",
+            "total_seconds": 238.08,
+            "hours": 0,
+            "seconds": 58,
+            "minutes": 3
+          },
+          {
+            "name": "feature/mv_7716",
+            "total_seconds": 0.336,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-02",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 7932.876,
+            "hours": 2,
+            "seconds": 12,
+            "minutes": 12
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 251.126,
+            "hours": 0,
+            "seconds": 11,
+            "minutes": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-03",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 5321.439,
+            "hours": 1,
+            "seconds": 41,
+            "minutes": 28
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 47.419,
+            "hours": 0,
+            "seconds": 47,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-05",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 13335.998,
+            "hours": 3,
+            "seconds": 15,
+            "minutes": 42
+          },
+          {
+            "name": "develop",
+            "total_seconds": 3189.635,
+            "hours": 0,
+            "seconds": 9,
+            "minutes": 53
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 2155.97,
+            "hours": 0,
+            "seconds": 55,
+            "minutes": 35
+          },
+          {
+            "name": "refactor/jb_ts3-service-toggable",
+            "total_seconds": 1260.508,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 21
+          },
+          {
+            "name": "main",
+            "total_seconds": 210.838,
+            "hours": 0,
+            "seconds": 30,
+            "minutes": 3
+          },
+          {
+            "name": "refactor/nr_maintenance-page",
+            "total_seconds": 185.034,
+            "hours": 0,
+            "seconds": 5,
+            "minutes": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-06",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 21284.633,
+            "hours": 5,
+            "seconds": 44,
+            "minutes": 54
+          },
+          {
+            "name": "refactor/nr_maintenance-page",
+            "total_seconds": 4717.227,
+            "hours": 1,
+            "seconds": 37,
+            "minutes": 18
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 1683.353,
+            "hours": 0,
+            "seconds": 3,
+            "minutes": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-08",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 16131.019,
+            "hours": 4,
+            "seconds": 51,
+            "minutes": 28
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 3102.046,
+            "hours": 0,
+            "seconds": 42,
+            "minutes": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-09",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 85.382,
+            "hours": 0,
+            "seconds": 25,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-10",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 16846.237,
+            "hours": 4,
+            "seconds": 46,
+            "minutes": 40
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 531.755,
+            "hours": 0,
+            "seconds": 51,
+            "minutes": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-11",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 3648.848,
+            "hours": 1,
+            "seconds": 48,
+            "minutes": 0
+          },
+          {
+            "name": "develop",
+            "total_seconds": 1967.391,
+            "hours": 0,
+            "seconds": 47,
+            "minutes": 32
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 784.037,
+            "hours": 0,
+            "seconds": 4,
+            "minutes": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-12",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 10730.267,
+            "hours": 2,
+            "seconds": 50,
+            "minutes": 58
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 3901.283,
+            "hours": 1,
+            "seconds": 1,
+            "minutes": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-13",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 15497.141,
+            "hours": 4,
+            "seconds": 17,
+            "minutes": 18
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 2224.145,
+            "hours": 0,
+            "seconds": 4,
+            "minutes": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-14",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 197.97,
+            "hours": 0,
+            "seconds": 17,
+            "minutes": 3
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 25.204,
+            "hours": 0,
+            "seconds": 25,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-17",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 7344.734,
+            "hours": 2,
+            "seconds": 24,
+            "minutes": 2
+          },
+          {
+            "name": "develop",
+            "total_seconds": 952.75,
+            "hours": 0,
+            "seconds": 52,
+            "minutes": 15
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 23.332,
+            "hours": 0,
+            "seconds": 23,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-18",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 13634.036,
+            "hours": 3,
+            "seconds": 14,
+            "minutes": 47
+          },
+          {
+            "name": "feature/buddy-platform/mv_tests",
+            "total_seconds": 4546.605,
+            "hours": 1,
+            "seconds": 46,
+            "minutes": 15
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 92.865,
+            "hours": 0,
+            "seconds": 32,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-19",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 6459.229,
+            "hours": 1,
+            "seconds": 39,
+            "minutes": 47
+          },
+          {
+            "name": "feature/buddy-platform/mv_tests",
+            "total_seconds": 1421.948,
+            "hours": 0,
+            "seconds": 41,
+            "minutes": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-22",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/buddy-platform/jb_text-answers",
+            "total_seconds": 23.267,
+            "hours": 0,
+            "seconds": 23,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-25",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_laravel-10",
+            "total_seconds": 7893.466,
+            "hours": 2,
+            "seconds": 33,
+            "minutes": 11
+          },
+          {
+            "name": "fix/jb_lazy-loading",
+            "total_seconds": 1.97,
+            "hours": 0,
+            "seconds": 1,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-26",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_laravel-10",
+            "total_seconds": 18744.823,
+            "hours": 5,
+            "seconds": 24,
+            "minutes": 12
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 23.418,
+            "hours": 0,
+            "seconds": 23,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-27",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_laravel-10",
+            "total_seconds": 21223.811,
+            "hours": 5,
+            "seconds": 43,
+            "minutes": 53
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 53.521,
+            "hours": 0,
+            "seconds": 53,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-28",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "fix/jb_lazy-loading",
+            "total_seconds": 24315.534,
+            "hours": 6,
+            "seconds": 15,
+            "minutes": 45
+          },
+          {
+            "name": "feature/jb_laravel-10",
+            "total_seconds": 2733.875,
+            "hours": 0,
+            "seconds": 33,
+            "minutes": 45
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 105.77,
+            "hours": 0,
+            "seconds": 45,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-03-29",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "fix/jb_lazy-loading",
+            "total_seconds": 20917.895,
+            "hours": 5,
+            "seconds": 37,
+            "minutes": 48
+          },
+          {
+            "name": "refactor/jb_fucking-all-xD",
+            "total_seconds": 856.289,
+            "hours": 0,
+            "seconds": 16,
+            "minutes": 14
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 79.834,
+            "hours": 0,
+            "seconds": 19,
+            "minutes": 1
+          },
+          {
+            "name": "feat/jb_otrs-service",
+            "total_seconds": 52.678,
+            "hours": 0,
+            "seconds": 52,
+            "minutes": 0
+          },
+          {
+            "name": "hotfix/jb_multi-service",
+            "total_seconds": 7.481,
+            "hours": 0,
+            "seconds": 7,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-10",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "fix/jb_validator-name",
+            "total_seconds": 2630.083,
+            "hours": 0,
+            "seconds": 50,
+            "minutes": 43
+          },
+          {
+            "name": "feature/admin-tools",
+            "total_seconds": 79.217,
+            "hours": 0,
+            "seconds": 19,
+            "minutes": 1
+          },
+          {
+            "name": "feature/admin-calendar",
+            "total_seconds": 0.021,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-11",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/admin-membership-scheduling",
+            "total_seconds": 1593.046,
+            "hours": 0,
+            "seconds": 33,
+            "minutes": 26
+          },
+          {
+            "name": "feature/admin-tools",
+            "total_seconds": 0.938,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-15",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/admin/membership-administration",
+            "total_seconds": 8489.81,
+            "hours": 2,
+            "seconds": 29,
+            "minutes": 21
+          },
+          {
+            "name": "feature/admin-membership-scheduling",
+            "total_seconds": 271.299,
+            "hours": 0,
+            "seconds": 31,
+            "minutes": 4
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 68.092,
+            "hours": 0,
+            "seconds": 8,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-16",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/admin/membership-administration",
+            "total_seconds": 16595.78,
+            "hours": 4,
+            "seconds": 35,
+            "minutes": 36
+          },
+          {
+            "name": "feature/admin/jb_md-role-permission-tooltip",
+            "total_seconds": 2184.793,
+            "hours": 0,
+            "seconds": 24,
+            "minutes": 36
+          },
+          {
+            "name": "feat/jb_admin-md-role-permission-tooltip",
+            "total_seconds": 349.162,
+            "hours": 0,
+            "seconds": 49,
+            "minutes": 5
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 35.901,
+            "hours": 0,
+            "seconds": 35,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-17",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "refactor/jb_fucking-all-xD",
+            "total_seconds": 21125.62,
+            "hours": 5,
+            "seconds": 5,
+            "minutes": 52
+          },
+          {
+            "name": "feature/admin/jb_md-role-permission-tooltip",
+            "total_seconds": 400.478,
+            "hours": 0,
+            "seconds": 40,
+            "minutes": 6
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 1.48,
+            "hours": 0,
+            "seconds": 1,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-18",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "refactor/jb_fucking-all-xD",
+            "total_seconds": 3661.169,
+            "hours": 1,
+            "seconds": 1,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-22",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "chore/code-conventions",
+            "total_seconds": 6453.267,
+            "hours": 1,
+            "seconds": 33,
+            "minutes": 47
+          },
+          {
+            "name": "feature/admin/training/mv_trainer",
+            "total_seconds": 47.151,
+            "hours": 0,
+            "seconds": 47,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-23",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "chore/code-conventions",
+            "total_seconds": 10385.865,
+            "hours": 2,
+            "seconds": 5,
+            "minutes": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-24",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "chore/code-conventions",
+            "total_seconds": 238.76,
+            "hours": 0,
+            "seconds": 58,
+            "minutes": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-25",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "chore/code-conventions",
+            "total_seconds": 8696.764,
+            "hours": 2,
+            "seconds": 56,
+            "minutes": 24
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 65.721,
+            "hours": 0,
+            "seconds": 5,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-04-26",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "refactor/jb_buddy-matching-job",
+            "total_seconds": 2421.511,
+            "hours": 0,
+            "seconds": 21,
+            "minutes": 40
+          },
+          {
+            "name": "develop",
+            "total_seconds": 2073.824,
+            "hours": 0,
+            "seconds": 33,
+            "minutes": 34
+          },
+          {
+            "name": "chore/code-conventions",
+            "total_seconds": 1089.609,
+            "hours": 0,
+            "seconds": 9,
+            "minutes": 18
+          },
+          {
+            "name": "feat/jb_icons",
+            "total_seconds": 626.552,
+            "hours": 0,
+            "seconds": 26,
+            "minutes": 10
+          },
+          {
+            "name": "refactor/jb_buddy-components",
+            "total_seconds": 570.942,
+            "hours": 0,
+            "seconds": 30,
+            "minutes": 9
+          },
+          {
+            "name": "feat/jb_buddy-match-mail",
+            "total_seconds": 461.364,
+            "hours": 0,
+            "seconds": 41,
+            "minutes": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-04",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feat/jb_reset-user-mail",
+            "total_seconds": 1413.585,
+            "hours": 0,
+            "seconds": 33,
+            "minutes": 23
+          },
+          {
+            "name": "chore/code-conventions",
+            "total_seconds": 4.249,
+            "hours": 0,
+            "seconds": 4,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-05",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 889.391,
+            "hours": 0,
+            "seconds": 49,
+            "minutes": 14
+          },
+          {
+            "name": "feat/jb_reset-user-mail",
+            "total_seconds": 0.711,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-06",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 0.001,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-07",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 29.683,
+            "hours": 0,
+            "seconds": 29,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-10",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "fix/jb_buddy-matching",
+            "total_seconds": 3765.176,
+            "hours": 1,
+            "seconds": 45,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-11",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "fix/jb_buddy-matching",
+            "total_seconds": 163.244,
+            "hours": 0,
+            "seconds": 43,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-17",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "fix/jb_buddy-matching",
+            "total_seconds": 1994.41,
+            "hours": 0,
+            "seconds": 14,
+            "minutes": 33
+          },
+          {
+            "name": "feature/jb_charts-cache-control",
+            "total_seconds": 92.547,
+            "hours": 0,
+            "seconds": 32,
+            "minutes": 1
+          },
+          {
+            "name": "develop",
+            "total_seconds": 3.104,
+            "hours": 0,
+            "seconds": 3,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-26",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/admin/training/mv_airports",
+            "total_seconds": 13.439,
+            "hours": 0,
+            "seconds": 13,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-27",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/admin/training/mv_briefing-trainer",
+            "total_seconds": 6859.75,
+            "hours": 1,
+            "seconds": 19,
+            "minutes": 54
+          },
+          {
+            "name": "feature/admin/training/mv_td-center-blocked-users",
+            "total_seconds": 4924.436,
+            "hours": 1,
+            "seconds": 4,
+            "minutes": 22
+          },
+          {
+            "name": "feature/admin/training/mv_airports",
+            "total_seconds": 4137.229,
+            "hours": 1,
+            "seconds": 57,
+            "minutes": 8
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 669.814,
+            "hours": 0,
+            "seconds": 9,
+            "minutes": 11
+          },
+          {
+            "name": "feature/admin/mv_training",
+            "total_seconds": 33.609,
+            "hours": 0,
+            "seconds": 33,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-28",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feat/jb_buddy-gdpr",
+            "total_seconds": 11308.22,
+            "hours": 3,
+            "seconds": 28,
+            "minutes": 8
+          },
+          {
+            "name": "fix/jb_buddy-registration-validation",
+            "total_seconds": 5561.143,
+            "hours": 1,
+            "seconds": 41,
+            "minutes": 32
+          },
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 1081.324,
+            "hours": 0,
+            "seconds": 1,
+            "minutes": 18
+          },
+          {
+            "name": "develop",
+            "total_seconds": 646.483,
+            "hours": 0,
+            "seconds": 46,
+            "minutes": 10
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 507.057,
+            "hours": 0,
+            "seconds": 27,
+            "minutes": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-29",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "main",
+            "total_seconds": 546.202,
+            "hours": 0,
+            "seconds": 6,
+            "minutes": 9
+          },
+          {
+            "name": "develop",
+            "total_seconds": 16.393,
+            "hours": 0,
+            "seconds": 16,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-30",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feat/jb_buddy",
+            "total_seconds": 16454.983,
+            "hours": 4,
+            "seconds": 14,
+            "minutes": 34
+          },
+          {
+            "name": "feature/jb_buddy-matching-priority-question",
+            "total_seconds": 5226.658,
+            "hours": 1,
+            "seconds": 6,
+            "minutes": 27
+          },
+          {
+            "name": "develop",
+            "total_seconds": 1833.114,
+            "hours": 0,
+            "seconds": 33,
+            "minutes": 30
+          },
+          {
+            "name": "main",
+            "total_seconds": 34.553,
+            "hours": 0,
+            "seconds": 34,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-05-31",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 190.646,
+            "hours": 0,
+            "seconds": 10,
+            "minutes": 3
+          },
+          {
+            "name": "feature/jb_buddy-matching-priority-question",
+            "total_seconds": 63.007,
+            "hours": 0,
+            "seconds": 3,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-01",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 741.67,
+            "hours": 0,
+            "seconds": 21,
+            "minutes": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-02",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feat/jb_buddy-checklist-rework",
+            "total_seconds": 15608.318,
+            "hours": 4,
+            "seconds": 8,
+            "minutes": 20
+          },
+          {
+            "name": "develop",
+            "total_seconds": 6992.084,
+            "hours": 1,
+            "seconds": 32,
+            "minutes": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-03",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feat/jb_buddy-checklist-rework",
+            "total_seconds": 12460.602,
+            "hours": 3,
+            "seconds": 40,
+            "minutes": 27
+          },
+          {
+            "name": "style/jb_buddy-texts",
+            "total_seconds": 2978.094,
+            "hours": 0,
+            "seconds": 38,
+            "minutes": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-04",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "style/jb_buddy-texts",
+            "total_seconds": 13502.686,
+            "hours": 3,
+            "seconds": 2,
+            "minutes": 45
+          },
+          {
+            "name": "develop",
+            "total_seconds": 440.605,
+            "hours": 0,
+            "seconds": 20,
+            "minutes": 7
+          },
+          {
+            "name": "feat/jb_buddy-checklist-rework",
+            "total_seconds": 303.208,
+            "hours": 0,
+            "seconds": 3,
+            "minutes": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-05",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feat/jb_icons",
+            "total_seconds": 7058.53,
+            "hours": 1,
+            "seconds": 38,
+            "minutes": 57
+          },
+          {
+            "name": "style/jb_buddy-texts",
+            "total_seconds": 1421.335,
+            "hours": 0,
+            "seconds": 41,
+            "minutes": 23
+          },
+          {
+            "name": "develop",
+            "total_seconds": 79.709,
+            "hours": 0,
+            "seconds": 19,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-06",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "style/jb_buddy-texts",
+            "total_seconds": 14109.522,
+            "hours": 3,
+            "seconds": 9,
+            "minutes": 55
+          },
+          {
+            "name": "develop",
+            "total_seconds": 31.889,
+            "hours": 0,
+            "seconds": 31,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-07",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "style/jb_buddy-texts",
+            "total_seconds": 11584.048,
+            "hours": 3,
+            "seconds": 4,
+            "minutes": 13
+          },
+          {
+            "name": "develop",
+            "total_seconds": 6442.258,
+            "hours": 1,
+            "seconds": 22,
+            "minutes": 47
+          },
+          {
+            "name": "fix/jb_award-validation-page",
+            "total_seconds": 3576.467,
+            "hours": 0,
+            "seconds": 36,
+            "minutes": 59
+          },
+          {
+            "name": "feat/jb_icons",
+            "total_seconds": 1854.362,
+            "hours": 0,
+            "seconds": 54,
+            "minutes": 30
+          },
+          {
+            "name": "fix/jb_criteria-sort",
+            "total_seconds": 1280.143,
+            "hours": 0,
+            "seconds": 20,
+            "minutes": 21
+          },
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 779.112,
+            "hours": 0,
+            "seconds": 59,
+            "minutes": 12
+          },
+          {
+            "name": "feature/mv_buddy_award",
+            "total_seconds": 613.812,
+            "hours": 0,
+            "seconds": 13,
+            "minutes": 10
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 18.955,
+            "hours": 0,
+            "seconds": 18,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-08",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "style/jb_buddy-texts",
+            "total_seconds": 6229.492,
+            "hours": 1,
+            "seconds": 49,
+            "minutes": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-09",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "style/jb_buddy-texts",
+            "total_seconds": 10640.642,
+            "hours": 2,
+            "seconds": 20,
+            "minutes": 57
+          },
+          {
+            "name": "feat/jb_buddy-member-comments",
+            "total_seconds": 5861.467,
+            "hours": 1,
+            "seconds": 41,
+            "minutes": 37
+          },
+          {
+            "name": "feat/jb_buddy-prevent-members-from-matching",
+            "total_seconds": 970.765,
+            "hours": 0,
+            "seconds": 10,
+            "minutes": 16
+          },
+          {
+            "name": "develop",
+            "total_seconds": 743.575,
+            "hours": 0,
+            "seconds": 23,
+            "minutes": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-10",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feat/jb_buddy-role-requirements",
+            "total_seconds": 7204.506,
+            "hours": 2,
+            "seconds": 4,
+            "minutes": 0
+          },
+          {
+            "name": "feat/jb_buddy-answer-order",
+            "total_seconds": 3079.696,
+            "hours": 0,
+            "seconds": 19,
+            "minutes": 51
+          },
+          {
+            "name": "fix/jb_buddy-matching",
+            "total_seconds": 1249.129,
+            "hours": 0,
+            "seconds": 49,
+            "minutes": 20
+          },
+          {
+            "name": "feature/admin/mv_training_date_option",
+            "total_seconds": 395.266,
+            "hours": 0,
+            "seconds": 35,
+            "minutes": 6
+          },
+          {
+            "name": "style/jb_buddy-imgs",
+            "total_seconds": 351.038,
+            "hours": 0,
+            "seconds": 51,
+            "minutes": 5
+          },
+          {
+            "name": "develop",
+            "total_seconds": 132.573,
+            "hours": 0,
+            "seconds": 12,
+            "minutes": 2
+          },
+          {
+            "name": "refactor/jb_buddy-enum-names",
+            "total_seconds": 76.361,
+            "hours": 0,
+            "seconds": 16,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-11",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feat/jb_buddy-role-requirements",
+            "total_seconds": 3579.454,
+            "hours": 0,
+            "seconds": 39,
+            "minutes": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-15",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 7136.38,
+            "hours": 1,
+            "seconds": 56,
+            "minutes": 58
+          },
+          {
+            "name": "feat/jb_buddy-role-requirements",
+            "total_seconds": 242.52,
+            "hours": 0,
+            "seconds": 2,
+            "minutes": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-16",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "develop",
+            "total_seconds": 3875.134,
+            "hours": 1,
+            "seconds": 35,
+            "minutes": 4
+          },
+          {
+            "name": "feature/jb_buddy-criterion-not-required",
+            "total_seconds": 3032.119,
+            "hours": 0,
+            "seconds": 32,
+            "minutes": 50
+          },
+          {
+            "name": "refacotr/jb_buddy-matching",
+            "total_seconds": 1210.585,
+            "hours": 0,
+            "seconds": 10,
+            "minutes": 20
+          },
+          {
+            "name": "hotfix/jb_buddy-abort-match",
+            "total_seconds": 401.635,
+            "hours": 0,
+            "seconds": 41,
+            "minutes": 6
+          },
+          {
+            "name": "main",
+            "total_seconds": 157.095,
+            "hours": 0,
+            "seconds": 37,
+            "minutes": 2
+          },
+          {
+            "name": "hotfix/jb_buddy-member-undefined",
+            "total_seconds": 34.694,
+            "hours": 0,
+            "seconds": 34,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-17",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-criterion-not-required",
+            "total_seconds": 21972.71,
+            "hours": 6,
+            "seconds": 12,
+            "minutes": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-18",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-criterion-not-required",
+            "total_seconds": 3748.971,
+            "hours": 1,
+            "seconds": 28,
+            "minutes": 2
+          },
+          {
+            "name": "develop",
+            "total_seconds": 6.086,
+            "hours": 0,
+            "seconds": 6,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-19",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 6406.337,
+            "hours": 1,
+            "seconds": 46,
+            "minutes": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-20",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 6871.291,
+            "hours": 1,
+            "seconds": 31,
+            "minutes": 54
+          },
+          {
+            "name": "hotfix/jb_mardown-link-xss-vulnerability",
+            "total_seconds": 785.736,
+            "hours": 0,
+            "seconds": 5,
+            "minutes": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-21",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 10436.732,
+            "hours": 2,
+            "seconds": 56,
+            "minutes": 53
+          },
+          {
+            "name": "refactor/jb_buddy-landing-page",
+            "total_seconds": 1058.633,
+            "hours": 0,
+            "seconds": 38,
+            "minutes": 17
+          },
+          {
+            "name": "chore/code-conventions",
+            "total_seconds": 245.565,
+            "hours": 0,
+            "seconds": 5,
+            "minutes": 4
+          },
+          {
+            "name": "develop",
+            "total_seconds": 60.77,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-22",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 9985.586,
+            "hours": 2,
+            "seconds": 25,
+            "minutes": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-23",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 15953.71,
+            "hours": 4,
+            "seconds": 53,
+            "minutes": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-24",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 25013.004,
+            "hours": 6,
+            "seconds": 53,
+            "minutes": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-25",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 15430.341,
+            "hours": 4,
+            "seconds": 10,
+            "minutes": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-26",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 16231.909,
+            "hours": 4,
+            "seconds": 31,
+            "minutes": 30
+          },
+          {
+            "name": "Unknown",
+            "total_seconds": 124.277,
+            "hours": 0,
+            "seconds": 4,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-27",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 1769.398,
+            "hours": 0,
+            "seconds": 29,
+            "minutes": 29
+          },
+          {
+            "name": "feature/buddy/mv_statistics",
+            "total_seconds": 955.632,
+            "hours": 0,
+            "seconds": 55,
+            "minutes": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-28",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 9106.501,
+            "hours": 2,
+            "seconds": 46,
+            "minutes": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-06-29",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 0.143,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-02",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 53.546,
+            "hours": 0,
+            "seconds": 53,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-03",
+    "projects": [
+      {
+        "name": "de-division-center",
+        "branches": [
+          {
+            "name": "feature/jb_buddy-chats",
+            "total_seconds": 1894.044,
+            "hours": 0,
+            "seconds": 34,
+            "minutes": 31
+          },
+          {
+            "name": "develop",
+            "total_seconds": 582.93,
+            "hours": 0,
+            "seconds": 42,
+            "minutes": 9
+          },
+          {
+            "name": "feat/jb_analyze-js-usage",
+            "total_seconds": 2.017,
+            "hours": 0,
+            "seconds": 2,
+            "minutes": 0
+          }
+        ]
+      }
+    ]
+  }
+]

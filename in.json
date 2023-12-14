@@ -1,0 +1,227 @@
+[
+  {
+    "date": "2023-07-05",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "feature/eng-288-fls-export-bug",
+            "total_seconds": 4448.298,
+            "hours": 1,
+            "seconds": 8,
+            "minutes": 14
+          },
+          {
+            "name": "feature/eng-289-filters-updates",
+            "total_seconds": 1820.089,
+            "hours": 0,
+            "seconds": 20,
+            "minutes": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-12",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "staging",
+            "total_seconds": 3226.24,
+            "hours": 0,
+            "seconds": 46,
+            "minutes": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-13",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "staging",
+            "total_seconds": 227.873,
+            "hours": 0,
+            "seconds": 47,
+            "minutes": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-15",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "staging",
+            "total_seconds": 1628.751,
+            "hours": 0,
+            "seconds": 8,
+            "minutes": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-16",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "staging",
+            "total_seconds": 983.9,
+            "hours": 0,
+            "seconds": 23,
+            "minutes": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-17",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "staging",
+            "total_seconds": 120.775,
+            "hours": 0,
+            "seconds": 0,
+            "minutes": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-19",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "feature/eng-292-frontend-marktgruppe",
+            "total_seconds": 3977.748,
+            "hours": 1,
+            "seconds": 17,
+            "minutes": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-21",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "feature/eng-296-servicetable-null-filtern",
+            "total_seconds": 3443.318,
+            "hours": 0,
+            "seconds": 23,
+            "minutes": 57
+          },
+          {
+            "name": "feature/eng-292-frontend-marktgruppe",
+            "total_seconds": 1766.498,
+            "hours": 0,
+            "seconds": 26,
+            "minutes": 29
+          },
+          {
+            "name": "staging",
+            "total_seconds": 313.122,
+            "hours": 0,
+            "seconds": 13,
+            "minutes": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-28",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "feature/eng-296-servicetable-null-filtern",
+            "total_seconds": 2861.454,
+            "hours": 0,
+            "seconds": 41,
+            "minutes": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-29",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "feature/eng-296-servicetable-null-filtern",
+            "total_seconds": 2804.563,
+            "hours": 0,
+            "seconds": 44,
+            "minutes": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-30",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "feature/eng-296-servicetable-null-filtern",
+            "total_seconds": 2780.229,
+            "hours": 0,
+            "seconds": 20,
+            "minutes": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-07-31",
+    "projects": [
+      {
+        "name": "zac-management",
+        "branches": [
+          {
+            "name": "feature/eng-296-servicetable-null-filtern",
+            "total_seconds": 1565.998,
+            "hours": 0,
+            "seconds": 5,
+            "minutes": 26
+          }
+        ]
+      }
+    ]
+  }
+]

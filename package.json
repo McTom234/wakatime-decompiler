@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "prettier": "^3.0.2"
+  },
+  "scripts": {
+    "start": "tsc main.ts",
+    "dev": "tsc main.ts && node main.js in.json division-center,de-division-center",
+    "calc": "tsc calcTime.ts && node calcTime.js",
+    "format": "prettier ./*.ts --write"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "typescript": "^5.1.6"
+  }
+}
