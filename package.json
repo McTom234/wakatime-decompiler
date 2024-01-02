@@ -1,15 +1,12 @@
 {
-  "dependencies": {
-    "prettier": "^3.0.2"
-  },
   "scripts": {
-    "start": "tsc main.ts",
-    "dev": "tsc main.ts && node main.js in.json division-center,de-division-center",
-    "calc": "tsc calcTime.ts && node calcTime.js",
-    "format": "prettier ./*.ts --write"
+    "build": "tsc",
+    "start": "node build/main.js && node build/calcTime.js",
+    "format": "prettier ./src/**/*.ts --write"
   },
   "devDependencies": {
-    "@types/node": "^20.5.0",
-    "typescript": "^5.1.6"
+    "@types/node": "^20.10.6",
+    "prettier": "^3.1.1",
+    "typescript": "^5.3.3"
   }
 }
